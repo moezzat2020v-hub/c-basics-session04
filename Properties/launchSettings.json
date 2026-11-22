@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Ass-04": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
